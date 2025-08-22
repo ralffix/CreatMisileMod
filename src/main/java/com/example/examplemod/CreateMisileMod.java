@@ -1,4 +1,4 @@
-package com.example.CreateMisileMod;
+package com.example.createmisilemod;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
